@@ -22,6 +22,17 @@ If you’re planning to build your own PCB, [NextPCB](https://www.nextpcb.com/?c
 
 ## SCHEMATIC
 <img width="2481" height="1754" alt="Aircon   Fan Smart Controller_page-0001" src="https://github.com/user-attachments/assets/9a898275-fce0-4903-a85c-399965b3b4c1" />
+## SCHEMATIC OVERVIEW
+
+The PROGRAMMABLE DUAL-CHANNEL POWER CONTROLLER is built around an ESP32-S2 microcontroller, integrating programmable control, timing functions, and dual-channel AC switching.
+
+* **Microcontroller:** ESP32-S2 for control logic, timing, and user input processing.
+* **Power Supply:** 230 VAC to 5 VDC conversion, with a 3.3 V regulator for the digital circuitry.
+* **Dual-Channel Switching:** Two independently controlled relays driven by transistor-based switching circuits.
+* **User Interface:** Three function keys and an OLED display interface.
+* **USB Type-C:** USB connectivity with supporting configuration and protection components.
+* **External Flash:** SPI flash memory for non-volatile data storage.
+* **Filtering & Decoupling:** Capacitors for power supply stability and noise reduction.
 
 
 ## PCB
@@ -34,18 +45,14 @@ If you’re planning to build your own PCB, [NextPCB](https://www.nextpcb.com/?c
 
 
 ## MANUFACTURED PCB
-<img width="1181" height="922" alt="photo_6084558659783430593_y" src="https://github.com/user-attachments/assets/5e532351-8141-4804-9f2d-4e4c79c69318" />
-<img width="1018" height="824" alt="photo_6084558659783430600_y" src="https://github.com/user-attachments/assets/723d452b-8f99-442e-b056-18bf28961278" />
-
-## PERFORMANCE
-<img width="716" height="516" alt="image" src="https://github.com/user-attachments/assets/f002d0c4-28d9-48de-8277-cf3d7cf28dba" />
-
-The USB Hub was able to achieve a read speed of 445.69 MB/s, equivalent to 3.57 Gbps, and a write speed of 254.85 MB/s, equivalent to 2.04 Gbps. Unfortunately, the device used for testing was not capable of reaching the full 5 Gbps bandwidth of USB 3.1, so the maximum performance of the hub could not be fully evaluated. I wish I had access to a true 5 Gbps-capable device to properly test the hub’s limits.
+<img width="2396" height="1536" alt="54f83a58-bfc9-46cf-a3cf-78c3728c47b0 (1)" src="https://github.com/user-attachments/assets/ca3caba9-83e0-4e8a-8026-de131a2bb373" />
+<img width="561" height="537" alt="image" src="https://github.com/user-attachments/assets/9de49252-5266-43e6-83e1-a3d74fe1a700" />
+<img width="522" height="452" alt="image" src="https://github.com/user-attachments/assets/78aee860-7558-4565-b3fd-90f6f44f1d6f" />
 
 ## 📁 File Structure
 
 <details>
-  <summary>USB 3.1 Hub</summary>
+  <summary>PROGRAMMABLE DUAL-CHANNEL POWER CONTROLLER</summary>
   <ul>
     <li>
       Media/
