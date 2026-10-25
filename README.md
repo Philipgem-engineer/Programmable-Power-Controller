@@ -38,9 +38,13 @@ The PROGRAMMABLE DUAL-CHANNEL POWER CONTROLLER is built around an ESP32-S2 micro
 <img width="518" height="527" alt="image" src="https://github.com/user-attachments/assets/3582d32e-bd0d-4176-9150-55001388164a" />
 
 
-##  3D VIEW
+## PCB 3D VIEW
 <img width="566" height="571" alt="image" src="https://github.com/user-attachments/assets/cace3693-88ac-4a2c-8e26-39b0444e5d2e" />
 <img width="673" height="586" alt="image" src="https://github.com/user-attachments/assets/7a34d6d9-a0d3-40d0-af47-b3f3d8594211" />
+
+## DEVICE 3D VIEW
+<img width="581" height="475" alt="image" src="https://github.com/user-attachments/assets/e7f39e89-d6a2-49ee-8efb-65ebc79e733a" />
+<img width="571" height="471" alt="image" src="https://github.com/user-attachments/assets/341d9087-727f-477a-b69d-f5597206fde4" />
 
 
 ## MANUFACTURED PCB
