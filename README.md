@@ -22,6 +22,7 @@ If you’re planning to build your own PCB, [NextPCB](https://www.nextpcb.com/?c
 
 ## SCHEMATIC
 <img width="2481" height="1754" alt="Aircon   Fan Smart Controller_page-0001" src="https://github.com/user-attachments/assets/9a898275-fce0-4903-a85c-399965b3b4c1" />
+
 ## SCHEMATIC OVERVIEW
 
 The PROGRAMMABLE DUAL-CHANNEL POWER CONTROLLER is built around an ESP32-S2 microcontroller, integrating programmable control, timing functions, and dual-channel AC switching.
