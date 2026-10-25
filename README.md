@@ -21,17 +21,16 @@ If you’re planning to build your own PCB, [NextPCB](https://www.nextpcb.com/?c
 - PCB Fabrication & Component Library: NextPCB
 
 ## SCHEMATIC
-<img width="738" height="514" alt="image" src="https://github.com/user-attachments/assets/6afb91eb-47c3-4ae4-beaa-b1ab52ffffa7" />
-
+<img width="2481" height="1754" alt="Aircon   Fan Smart Controller_page-0001" src="https://github.com/user-attachments/assets/9a898275-fce0-4903-a85c-399965b3b4c1" />
 
 
 ## PCB
-<img width="662" height="533" alt="image" src="https://github.com/user-attachments/assets/9df19c55-bad4-49f6-975b-d79e82a47a02" />
+<img width="518" height="527" alt="image" src="https://github.com/user-attachments/assets/3582d32e-bd0d-4176-9150-55001388164a" />
 
 
 ##  PCB 3D VIEW
-<img width="670" height="531" alt="image" src="https://github.com/user-attachments/assets/a9191940-1835-4900-8ce3-b3ca8b6c9e89" />
-<img width="988" height="551" alt="image" src="https://github.com/user-attachments/assets/afc82d9c-c681-4f8e-805e-90adc0626bc1" />
+<img width="566" height="571" alt="image" src="https://github.com/user-attachments/assets/cace3693-88ac-4a2c-8e26-39b0444e5d2e" />
+<img width="673" height="586" alt="image" src="https://github.com/user-attachments/assets/7a34d6d9-a0d3-40d0-af47-b3f3d8594211" />
 
 
 ## MANUFACTURED PCB
