@@ -1,16 +1,18 @@
-# SUPERSPEED USB 3.1 HUB (5 Gbps)
-This reposistory containts a schematic and PCB design of a superspeed USB 3.1 Hub (5 Gbps)
+# PROGRAMMABLE DUAL-CHANNEL POWER CONTROLLER
+This repository contains the schematic and PCB design of a programmable dual-channel power controller featuring two power outlets, configurable operating modes, and timer-based control.
 
 ##  FEATURES
-- 5 Gbps Speed
-- Can charge devices up to 7.5 watts
-- Type C upstream port
-- 4 USB-A downstream port
+- Dual power outlets
+- Programmable timer-based control
+- Configurable operating modes
+- Relay-based power switching
+- Custom-designed PCB
+- Embedded control system
 
 ## SPONSOR
 [<img width="200" height="69" alt="NextPCB" src="https://github.com/user-attachments/assets/f6b9bda9-1b32-4372-8df8-b126741eb5a7">](https://www.nextpcb.com/?code=Philip)
 
-This project is proudly sponsored by [NextPCB](https://www.nextpcb.com/?code=Philip). Their support helps make the continued development of this project possible, and I’m incredibly grateful to have them as my very first sponsor.
+This project is proudly sponsored by [NextPCB](https://www.nextpcb.com/?code=Philip). I'm grateful for the support that helped bring this hardware design from concept to a physical prototype.
 
 If you’re planning to build your own PCB, [NextPCB](https://www.nextpcb.com/?code=Philip) offers reliable PCB fabrication and assembly services with fast turnaround times and competitive pricing, making it easier to bring your electronics projects from idea to reality.
 
@@ -19,7 +21,8 @@ If you’re planning to build your own PCB, [NextPCB](https://www.nextpcb.com/?c
 - PCB Fabrication & Component Library: NextPCB
 
 ## SCHEMATIC
-<img width="3307" height="2339" alt="USB Hub 3 1 Schematic-1" src="https://github.com/user-attachments/assets/815ba5ab-2e6d-4cd1-843a-719847d26fd3" />
+<img width="738" height="514" alt="image" src="https://github.com/user-attachments/assets/6afb91eb-47c3-4ae4-beaa-b1ab52ffffa7" />
+
 
 
 ## PCB
