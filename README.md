@@ -30,7 +30,7 @@ The PROGRAMMABLE DUAL-CHANNEL POWER CONTROLLER is built around an ESP32-S2 micro
 * **Dual-Channel Switching:** Two independently controlled relays driven by transistor-based switching circuits.
 * **User Interface:** Three function keys and an OLED display interface.
 * **USB Type-C:** USB connectivity with supporting configuration and protection components.
-* **External Flash:** SPI flash memory for firmware.
+* **External Flash:** SPI flash memory for non-volatile data storage.
 * **Filtering & Decoupling:** Capacitors for power supply stability and noise reduction.
 
 
